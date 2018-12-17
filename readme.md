@@ -100,3 +100,6 @@ print('보너스 번호는 {0} 입니다.'.format(s2))
 
 
 
+## Git Hub 다루기
+
+git bash를 설치하고 이를 이용해 remote repository를 관리해본다.
